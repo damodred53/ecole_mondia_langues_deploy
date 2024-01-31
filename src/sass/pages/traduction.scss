@@ -1,0 +1,14 @@
+.paragraph_traduction{
+    padding: 1rem 3rem 1rem 3rem;
+    text-align: center;
+    font-size: 34px;
+}
+
+@media (max-width: 780px) {
+    
+    .paragraph_traduction {
+        font-size: 22px;
+    }
+    
+}
+
