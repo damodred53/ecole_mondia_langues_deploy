@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ecole_mondia_langues_deploy/static/css/main.d27bfa8e.css",
+    "main.js": "/ecole_mondia_langues_deploy/static/js/main.8c5c8f5e.js",
+    "static/js/787.52107271.chunk.js": "/ecole_mondia_langues_deploy/static/js/787.52107271.chunk.js",
+    "static/media/témoignages_étudiants.pdf": "/ecole_mondia_langues_deploy/static/media/témoignages_étudiants.ff32dec1b0bb8723dd6e.pdf",
+    "static/media/règlement_livret_accueil.pdf": "/ecole_mondia_langues_deploy/static/media/règlement_livret_accueil.79a763a4575111fd90a0.pdf",
+    "static/media/2.webp": "/ecole_mondia_langues_deploy/static/media/2.ae1b445a49fc45e4cd65.webp",
+    "static/media/1.jpg": "/ecole_mondia_langues_deploy/static/media/1.5c7d403f4bd5a3844819.jpg",
+    "static/media/3.webp": "/ecole_mondia_langues_deploy/static/media/3.40743e7ff72b3a515dbb.webp",
+    "static/media/formateur_2.jpg": "/ecole_mondia_langues_deploy/static/media/formateur_2.f841f387ddd1fcecf635.jpg",
+    "static/media/5.webp": "/ecole_mondia_langues_deploy/static/media/5.84435e257eb7c560dc76.webp",
+    "static/media/formateur_3.jpg": "/ecole_mondia_langues_deploy/static/media/formateur_3.430e1d49da74b45920af.jpg",
+    "static/media/6.jpg": "/ecole_mondia_langues_deploy/static/media/6.f78d832a2598c12cfb51.jpg",
+    "static/media/5.jpg": "/ecole_mondia_langues_deploy/static/media/5.e3b967a257409512bfd7.jpg",
+    "static/media/formateur_1.jpg": "/ecole_mondia_langues_deploy/static/media/formateur_1.5fac16da4fbd1b3d51fb.jpg",
+    "static/media/4.jpeg": "/ecole_mondia_langues_deploy/static/media/4.a1934f9c1ba763a9cf00.jpeg",
+    "static/media/2_mini.webp": "/ecole_mondia_langues_deploy/static/media/2_mini.7b6e5f8808de3c392461.webp",
+    "static/media/8_mini.webp": "/ecole_mondia_langues_deploy/static/media/8_mini.f462e8ee7322bd38b261.webp",
+    "static/media/3_mini.webp": "/ecole_mondia_langues_deploy/static/media/3_mini.fb0396e8bb31a20f4e2a.webp",
+    "static/media/7.jpg": "/ecole_mondia_langues_deploy/static/media/7.7547d35fa461af899156.jpg",
+    "static/media/logo_mondia_langues.webp": "/ecole_mondia_langues_deploy/static/media/logo_mondia_langues.171cf8fa48096e7b6d74.webp",
+    "static/media/TOEIC_2024.png": "/ecole_mondia_langues_deploy/static/media/TOEIC_2024.58ade9ad12294c555ae3.png",
+    "static/media/TCF_2024.png": "/ecole_mondia_langues_deploy/static/media/TCF_2024.b48455256fe1b2051038.png",
+    "static/media/mondiaLangues.webp": "/ecole_mondia_langues_deploy/static/media/mondiaLangues.4eac4c5070e014ad6b85.webp",
+    "static/media/10.webp": "/ecole_mondia_langues_deploy/static/media/10.d5eb4979b33632150298.webp",
+    "static/media/logo_facebook.webp": "/ecole_mondia_langues_deploy/static/media/logo_facebook.ef57c3d4b53d5113c783.webp",
+    "static/media/logo instagram.png": "/ecole_mondia_langues_deploy/static/media/logo instagram.5728b7be45fc143b27b0.png",
+    "static/media/logo_twitter.avif": "/ecole_mondia_langues_deploy/static/media/logo_twitter.f13a0b8de0a4b9cfcf59.avif",
+    "index.html": "/ecole_mondia_langues_deploy/index.html",
+    "main.d27bfa8e.css.map": "/ecole_mondia_langues_deploy/static/css/main.d27bfa8e.css.map",
+    "main.8c5c8f5e.js.map": "/ecole_mondia_langues_deploy/static/js/main.8c5c8f5e.js.map",
+    "787.52107271.chunk.js.map": "/ecole_mondia_langues_deploy/static/js/787.52107271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d27bfa8e.css",
+    "static/js/main.8c5c8f5e.js"
+  ]
+}
