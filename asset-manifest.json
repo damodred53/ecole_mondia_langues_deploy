@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecole_mondia_langues_deploy/static/css/main.d27bfa8e.css",
-    "main.js": "/ecole_mondia_langues_deploy/static/js/main.8c5c8f5e.js",
+    "main.js": "/ecole_mondia_langues_deploy/static/js/main.50f55650.js",
     "static/js/787.52107271.chunk.js": "/ecole_mondia_langues_deploy/static/js/787.52107271.chunk.js",
     "static/media/témoignages_étudiants.pdf": "/ecole_mondia_langues_deploy/static/media/témoignages_étudiants.ff32dec1b0bb8723dd6e.pdf",
     "static/media/règlement_livret_accueil.pdf": "/ecole_mondia_langues_deploy/static/media/règlement_livret_accueil.79a763a4575111fd90a0.pdf",
@@ -29,11 +29,11 @@
     "static/media/logo_twitter.avif": "/ecole_mondia_langues_deploy/static/media/logo_twitter.f13a0b8de0a4b9cfcf59.avif",
     "index.html": "/ecole_mondia_langues_deploy/index.html",
     "main.d27bfa8e.css.map": "/ecole_mondia_langues_deploy/static/css/main.d27bfa8e.css.map",
-    "main.8c5c8f5e.js.map": "/ecole_mondia_langues_deploy/static/js/main.8c5c8f5e.js.map",
+    "main.50f55650.js.map": "/ecole_mondia_langues_deploy/static/js/main.50f55650.js.map",
     "787.52107271.chunk.js.map": "/ecole_mondia_langues_deploy/static/js/787.52107271.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d27bfa8e.css",
-    "static/js/main.8c5c8f5e.js"
+    "static/js/main.50f55650.js"
   ]
 }
