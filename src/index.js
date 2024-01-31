@@ -17,7 +17,7 @@ root.render(
   <React.StrictMode>
     <Router>
       <Routes>
-        <Route path='/' Component={LandingPage}></Route>
+        <Route path='/*' Component={LandingPage}></Route>
         <Route path='/formation' Component={Formation}></Route>
         <Route path='/contact' Component={Contact}></Route>
         <Route path='/presentation' Component={QuiSommesNous}></Route>
